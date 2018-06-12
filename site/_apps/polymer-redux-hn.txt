@@ -1,0 +1,28 @@
+---
+weight: 32
+title: 'Polymer Redux HN'
+github-title: 'PolymerLabs/polymer-redux-hn'
+libraries: 
+    - name: 'LitElement'
+    - name: 'Redux'
+scaffolding: 'PWA Starter Kit'
+module-bundling: 'Polymer-build with AMD modules'
+service-worker: 'Application Shell + data caching with sw-precache'
+perfomance-patterns: 'PRPL, code-splitting for granular loading'
+server-side-rendering: 'None'
+api: 'Node-hnapi (unofficial)'
+hosting: 'Google App Engine'
+other-details: 'Route-specific HTTP/2 server push'
+authors: 
+    - name: 'Keanu'
+lighthouse: 91/100
+interactive-em: 2.81s
+interactive-faster-3g: 2.19s
+lighthouse-link: https://www.webpagetest.org/lighthouse.php?test=180613_8V_4ade03585f04b6b9fe40a5f4abf2f2de&run=2
+wpt-em-link: https://www.webpagetest.org/result/180613_8V_4ade03585f04b6b9fe40a5f4abf2f2de/
+wpt-faster-3g-link: https://www.webpagetest.org/result/180613_SC_c8c39d42951eb5cbd842f3e119a198f8/
+image: /assets/images/polymer-redux-hn.png
+app-link: https://polymer-redux-hn.appspot.com/
+github-link: https://github.com/PolymerLabs/polymer-redux-hn
+framework-link: https://github.com/Polymer/pwa-starter-kit
+---
