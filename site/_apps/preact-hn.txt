@@ -13,12 +13,12 @@ api: 'In-memory cached Hacker News Firebase API'
 hosting: 'Webfaction + Cloudflare'
 authors: 
     - name: 'Kristofer'
-lighthouse: '93/100'
-interactive-em: '1.9s'
-interactive-faster-3g: '1.5s'
+lighthouse: '100/100'
+interactive-em: '2.49s'
+interactive-faster-3g: '2.04s'
 lighthouse-link: https://www.webpagetest.org/lighthouse.php?test=171009_R6_14208c102da44d9b2c10d78825ea128a&run=1
-wpt-em-link: https://www.webpagetest.org/result/171009_R6_14208c102da44d9b2c10d78825ea128a/
-wpt-faster-3g-link: https://www.webpagetest.org/result/171009_KZ_4637d4705732307a8d01e2fc0869bde3/
+wpt-em-link: https://www.webpagetest.org/result/180618_DG_33f28c81111def4d18ab040fd2fce6b6/
+wpt-faster-3g-link: https://www.webpagetest.org/result/180618_Q5_0e79ef231287224fbffbda162da2d713/
 image: /assets/images/preacthn-mobile.png
 app-link: https://hn.kristoferbaxter.com/
 github-link: https://github.com/kristoferbaxter/preact-hn
